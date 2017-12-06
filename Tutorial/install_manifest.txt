@@ -1,0 +1,2 @@
+/home/postep/cmake_tutorial/install/bin/Tutorial
+/home/postep/cmake_tutorial/install/include/TutorialConfig.h

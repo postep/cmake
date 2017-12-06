@@ -1,0 +1,16 @@
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/list_install_components.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/install.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/rebuild_cache.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/edit_cache.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/Tutorial.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/install/local.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/install/strip.dir
+/home/postep/cmake_tutorial/Tutorial/CMakeFiles/test.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/list_install_components.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/install.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/edit_cache.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/install/strip.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/install/local.dir
+/home/postep/cmake_tutorial/Tutorial/MathFunctions/CMakeFiles/test.dir

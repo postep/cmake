@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/postep/cmake_tutorial/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/postep/cmake_tutorial/TutorialConfig.h
+MathFunctions.h
+/home/postep/cmake_tutorial/MathFunctions.h
+
+TutorialConfig.h
+

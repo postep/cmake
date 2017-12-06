@@ -1,0 +1,73 @@
+Start testing: Dec 05 18:58 CET
+----------------------------------------------------------
+Unable to find executable: Tutorial
+1/4 Testing: TutorialRuns
+1/4 Test: TutorialRuns
+Command: "" "25"
+Directory: /home/postep/cmake_tutorial/build
+"TutorialRuns" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Dec 05 18:58 CET
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: Tutorial
+2/4 Testing: TutorialRuns25
+2/4 Test: TutorialRuns25
+Command: "" "25"
+Directory: /home/postep/cmake_tutorial/build
+"TutorialRuns25" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found.Regex=[25 is 5
+]
+"TutorialRuns25" end time: Dec 05 18:58 CET
+"TutorialRuns25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: Tutorial
+3/4 Testing: TutorialNegative
+3/4 Test: TutorialNegative
+Command: "" "-25"
+Directory: /home/postep/cmake_tutorial/build
+"TutorialNegative" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found.Regex=[-25 is 0
+]
+"TutorialNegative" end time: Dec 05 18:58 CET
+"TutorialNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: Tutorial
+4/4 Testing: TutorialUsage
+4/4 Test: TutorialUsage
+Command: ""
+Directory: /home/postep/cmake_tutorial/build
+"TutorialUsage" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Dec 05 18:58 CET
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 05 18:58 CET
